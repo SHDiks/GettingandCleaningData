@@ -81,4 +81,6 @@ Fifth part: which axis (X, Y or Z)
 
  
 
-Features\_info.txt contains the info from the original authors. 
+For example: Fourier\_BodyAccJerk-std-Z column is the standard deviation (std)
+of the Jerk signal (Jerk) from fast fourier transformed (Fourier\_) data of the
+Body Acceleration (BodyAcc) in the Z-axis (Z)
